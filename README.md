@@ -1,5 +1,8 @@
 # 图书馆管理系统
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
+
+
 学校或小型图书馆日常运营中，图书的入库登记、读者借还书记录、逾期提醒等事务如果还用纸质登记本或 Excel 来管理，不仅效率低下，而且数据容易出错丢失。本项目用 Java SSM 框架搭建了一套图书馆管理系统，管理员可以在线管理图书、读者、借阅记录和系统公告，读者可以检索图书和查看个人借阅信息。
 
 ## 痛点与目的
