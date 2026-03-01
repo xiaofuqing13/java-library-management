@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Maven
+.mvn/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Archives
+*.zip
+
+# Docs
+*.docx
+
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log
