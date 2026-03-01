@@ -112,6 +112,6 @@ mvn clean package
 | 构建 | Maven |
 | 服务器 | Tomcat |
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
